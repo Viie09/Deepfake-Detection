@@ -45,7 +45,7 @@ The project utilizes the **Celeb-DF v2** dataset, which includes:
 ### Performance Metrics
 - **Accuracy**: 99.52%
 - **Precision**: 99.63%
-- **Recall**: 99.50%
+- **Recall**: 99.38%
 - **F1-Score**: 99.50%
 
 ## How to Run
